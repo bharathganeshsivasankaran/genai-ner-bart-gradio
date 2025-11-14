@@ -104,12 +104,15 @@ demo.launch(share=True, server_port=int(os.environ.get("PORT3", 7860)))
 ### OUTPUT:
 
 #### OUTPUT-1
-<img width="1170" height="622" alt="Screenshot 2025-11-14 110043" src="https://github.com/user-attachments/assets/4e2baa48-bc05-4309-92cd-52c64433d0c1" />
+<img width="1172" height="623" alt="image" src="https://github.com/user-attachments/assets/5b9c3f1f-057a-4548-a8b3-c61262c75a23" />
 
 #### OUTPUT-2
-<img width="1169" height="625" alt="Screenshot 2025-11-14 110020" src="https://github.com/user-attachments/assets/a2e8cf39-0782-4468-a247-9a587bed5cca" />
+<img width="1170" height="622" alt="Screenshot 2025-11-14 110043" src="https://github.com/user-attachments/assets/4e2baa48-bc05-4309-92cd-52c64433d0c1" />
 
 #### OUTPUT-3
+<img width="1169" height="625" alt="Screenshot 2025-11-14 110020" src="https://github.com/user-attachments/assets/a2e8cf39-0782-4468-a247-9a587bed5cca" />
+
+#### OUTPUT-4
 <img width="1170" height="625" alt="Screenshot 2025-11-14 105759" src="https://github.com/user-attachments/assets/1782ec85-810c-4d51-b27c-087ffdfa8db8" />
 
 
